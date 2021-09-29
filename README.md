@@ -1,2 +1,3 @@
 # spaghetti-transletti
-Translator for web.
+
+Translator for web that aims to border on incomprehensible.
